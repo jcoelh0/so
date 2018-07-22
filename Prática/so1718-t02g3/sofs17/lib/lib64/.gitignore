@@ -1,0 +1,9 @@
+libsofs17CZDealerBin.a
+libsofs17DirentriesBin.a
+libsofs17FileclustersBin.a
+libsofs17FreelistsBin.a
+libsofs17ITDealerBin.a
+libsofs17InodeattrBin.a
+libsofs17MksofsBin.a
+libsofs17SBDealerBin.a
+libsofs17SyscallsBin.a
